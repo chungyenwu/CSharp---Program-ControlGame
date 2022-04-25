@@ -19,5 +19,7 @@ Choose one:
 # Example
 We can use keyboard to control the movement of the square. The corresponding light will flash on to represent the moving direction while the square is moving.
 
-![image](https://user-images.githubusercontent.com/34390301/165018756-5fce5ca8-8689-4068-a912-0c4282f2ae06.png)
+This game is shown below:
+
+https://user-images.githubusercontent.com/34390301/165027328-96c0bd6e-7300-4d3d-b35a-80cedec21d80.mp4
 
