@@ -1,4 +1,4 @@
-# CSharp---Program-ControlGame
+# CSharp__Program-ControlGame
 The Program is about ControlGame which is my side project for Csharp practice. 
 
 In this repository, following files can be found:
