@@ -19,5 +19,5 @@ Choose one:
 # Example
 We can use keyboard to control the movement of the square. The corresponding light will flash on to represent the moving direction while the square is moving.
 
-![image](https://user-images.githubusercontent.com/34390301/165018756-5fce5ca8-8689-4068-a912-0c4282f2ae06.png  width="50%" height="50%")
+![image](https://user-images.githubusercontent.com/34390301/165018756-5fce5ca8-8689-4068-a912-0c4282f2ae06.png)
 
